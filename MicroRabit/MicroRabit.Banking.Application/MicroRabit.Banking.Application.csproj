@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MicroRabit.Banking.Domain\MicroRabit.Banking.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
