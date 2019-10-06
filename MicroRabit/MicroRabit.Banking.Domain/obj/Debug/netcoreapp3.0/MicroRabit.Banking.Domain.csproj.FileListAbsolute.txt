@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\bin\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.deps.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\bin\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\bin\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Banking.Domain\obj\Debug\netcoreapp3.0\MicroRabit.Banking.Domain.csproj.CopyComplete

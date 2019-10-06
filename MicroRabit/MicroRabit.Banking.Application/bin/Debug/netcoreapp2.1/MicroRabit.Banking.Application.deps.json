@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MicroRabit.Banking.Application/1.0.0": {
+        "dependencies": {
+          "MicroRabit.Banking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabit.Banking.Application.dll": {}
+        }
+      },
+      "MicroRabit.Banking.Domain/1.0.0": {
+        "runtime": {
+          "MicroRabit.Banking.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroRabit.Banking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

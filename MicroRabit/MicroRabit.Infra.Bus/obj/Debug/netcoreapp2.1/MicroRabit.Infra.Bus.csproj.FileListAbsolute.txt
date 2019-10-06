@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\bin\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.deps.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\bin\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\bin\Debug\netcoreapp2.1\MicroRabit.Domain.Core.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\bin\Debug\netcoreapp2.1\MicroRabit.Domain.Core.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\bin\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Infra.Bus\obj\Debug\netcoreapp2.1\MicroRabit.Infra.Bus.pdb

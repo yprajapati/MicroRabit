@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/BankOfDotNet/v16/Server/sqlite3
+/.vs/MicroRabbit/v16/Server/sqlite3
+/.vs/ProducerConsumerRabbitMQ/v16/Server/sqlite3
+/.vs/ProducerConsumerRabbitMQ/DesignTimeBuild
+/.vs/ProducerConsumerRabbitMQ/v16
+/.vs/MicroRabbit/DesignTimeBuild
+/.vs/MicroRabbit/v16/.suo
+/.vs/BankOfDotNet/v16

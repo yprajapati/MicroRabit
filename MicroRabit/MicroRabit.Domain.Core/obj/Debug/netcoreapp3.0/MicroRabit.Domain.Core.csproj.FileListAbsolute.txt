@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.deps.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.pdb
