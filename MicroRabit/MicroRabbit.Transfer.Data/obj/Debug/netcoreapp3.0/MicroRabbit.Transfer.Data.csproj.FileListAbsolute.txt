@@ -8,3 +8,6 @@ C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\obj\Debug\netc
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.pdb
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.runtimeconfig.json
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.csproj.CopyComplete

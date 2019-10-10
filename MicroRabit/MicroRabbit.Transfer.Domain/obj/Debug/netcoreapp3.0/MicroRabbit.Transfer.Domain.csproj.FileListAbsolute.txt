@@ -5,3 +5,4 @@ C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\ne
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache
