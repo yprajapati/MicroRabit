@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.deps.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb

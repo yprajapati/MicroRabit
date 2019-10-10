@@ -5,3 +5,4 @@ C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcore
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.dll
 C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Domain.Core\obj\Debug\netcoreapp3.0\MicroRabit.Domain.Core.csprojAssemblyReference.cache
