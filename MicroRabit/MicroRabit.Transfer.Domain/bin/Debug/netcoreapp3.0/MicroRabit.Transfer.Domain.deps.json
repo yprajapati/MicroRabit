@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MicroRabit.Transfer.Domain/1.0.0": {
+        "runtime": {
+          "MicroRabit.Transfer.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroRabit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

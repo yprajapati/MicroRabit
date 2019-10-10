@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.deps.json
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Transfer.Domain.dll
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Domain.Core.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabit.Transfer.Domain.pdb
+C:\Users\Lenovo\source\repos\MicroRabit\MicroRabit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabit.Transfer.Application.csproj.CopyComplete
